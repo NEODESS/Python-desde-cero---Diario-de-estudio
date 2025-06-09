@@ -9,7 +9,7 @@ Este repositorio tiene como objetivo documentar de forma clara, progresiva y ord
 ```plaintext
 
 
-# 📁 python_desde_0_diario_de_estudio   # Carpeta raíz del repositorio. Contiene todo el proyecto de aprendizaje diario de Python.
+# 📁 python_desde_0_diario_de_estudio    # Carpeta raíz del repositorio. Contiene todo el proyecto de aprendizaje diario de Python.
     
 ├── README.md                           # Explica de forma general el propósito del proyecto, cómo navegarlo y cómo usarlo.
 ├── ARCHITECTURE.md                     # Documento que describe esta arquitectura y sus convenciones de organización.
