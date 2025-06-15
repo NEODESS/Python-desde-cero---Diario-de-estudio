@@ -20,7 +20,8 @@ numero_fecha = fecha_nacimiento[2:3 + 1]
 aleatorio = randint(0, 9999)
 
 # Convertir en a mayusculas y concatenar
-id_unico = f'{letras_nombre}{letras_apellido}{numero_fecha}{aleatorio}'
+id_unico = f'{letras_nombre}{letras_apellido}{numero_fecha}{aleatorio}'  # cuando llamamos a la variable aleatorio
+# se convierte de un int a un str por llamarlo con interpolacion
 id_mayusculas = id_unico.upper()
 
 print(f''' \nHola {nombre}, Habitante de Ciudad Gotica!
