@@ -19,7 +19,7 @@ cadena = "holamundo"
 mensaje = "\tHola \"mundo\"\nNuevo día"
 
 # --- EJERCICIO 4 ---
-# Une tres cadenas distintas con el método `.join()` y muestra el resultado. Usa guiones como separador.
+# Une tres cadenas distintas con el metodo `.join()` y muestra el resultado. Usa guiones como separador.
 a = "Hola"
 b = "mundo"
 c = "disciplinado"
@@ -33,7 +33,7 @@ edad = 28
 print(f'Mi nombre es {nombre} y tengo {edad} años.')
 
 # --- EJERCICIO 6 ---
-# Usa el método `.format()` para construir la misma frase: "Mi nombre es Daniel y tengo 28 años."
+# Usa el metodo `.format()` para construir la misma frase: "Mi nombre es Daniel y tengo 28 años."
 print("Mi nombre es {} y tengo {} años.".format(nombre, edad))
 
 # --- EJERCICIO 7 ---
@@ -50,7 +50,7 @@ palabra = frase[16:29]
 respuesta = "c y d"
 
 # --- EJERCICIO 9 ---
-# ¿Cuál es la diferencia entre usar el operador `+` para concatenar y el método `.join()`?
+# ¿Cuál es la diferencia entre usar el operador `+` para concatenar y el metodo `.join()`?
 # '+' concatena strings directamente. `.join()` es más eficiente con múltiples cadenas (como listas) y más limpio en bucles.
 
 # --- EJERCICIO 10 ---
